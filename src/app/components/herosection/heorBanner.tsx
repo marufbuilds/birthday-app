@@ -5,7 +5,7 @@ import { HiOutlineSparkles } from "react-icons/hi";
 
 export const HeorBanner = () => {
   return (
-    <section className=" rounded-2xl mt-10  relative overflow-hidden bg-[#4c0519] px-4 py-16 text-white sm:px-6 sm:py-20 lg:px-10 lg:py-24">
+    <section className=" rounded-2xl mt-5  relative overflow-hidden bg-[#4c0519] px-4 py-10 text-white sm:px-6 sm:py-20 lg:px-10 lg:py-24">
 
       {/* =====================================================
           BACKGROUND
@@ -33,7 +33,7 @@ export const HeorBanner = () => {
             MAIN CARD
         ====================================================== */}
 
-        <div className="relative overflow-hidden rounded-[2rem] border border-white/20 bg-white/[0.08] backdrop-blur-xl sm:rounded-[2.5rem]">
+        <div className="relative  overflow-hidden rounded-[2rem] border border-white/20 bg-white/[0.08] backdrop-blur-xl sm:rounded-[2.5rem]">
 
           {/* Inner highlight */}
 

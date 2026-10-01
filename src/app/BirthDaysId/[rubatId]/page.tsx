@@ -17,7 +17,7 @@ const BirthdayDetailsPage = async ({
 
   return (
     <div>
-      <h1>{birthday.message}</h1>
+      {/* <h1>{birthday.message}</h1> */}
       <p>{birthday.description}</p>
     </div>
   );

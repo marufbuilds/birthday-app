@@ -20,6 +20,7 @@ const HeroSection = () => {
       id="home"
       className="rounded-2xl mt-10  relative min-h-screen overflow-hidden bg-[#4c0519] text-white"
     >
+      
       {/* =====================================================
           BACKGROUND
       ====================================================== */}
@@ -205,31 +206,9 @@ const HeroSection = () => {
 
             <div className="mt-8 flex flex-col items-center gap-3 sm:flex-row lg:justify-start">
 
-              <Link
-                href="#surprise"
-                className="group flex w-full items-center justify-center gap-3 rounded-full bg-white px-6 py-3.5 font-bold text-rose-600 shadow-lg transition duration-300 hover:-translate-y-1 hover:scale-105 sm:w-auto"
-              >
+              
 
-                <HiOutlineGift className="text-xl transition duration-300 group-hover:rotate-12" />
-
-                Open Your Surprise
-
-                <span className="transition duration-300 group-hover:translate-x-1">
-                  →
-                </span>
-
-              </Link>
-
-              <Link
-                href="#memories"
-                className="flex w-full items-center justify-center gap-3 rounded-full border border-white/30 bg-white/10 px-6 py-3.5 font-semibold text-white shadow-lg backdrop-blur-sm transition duration-300 hover:-translate-y-1 hover:bg-white/20 sm:w-auto"
-              >
-
-                <HiOutlineCake className="text-xl" />
-
-                Our Memories
-
-              </Link>
+             
 
             </div>
 
