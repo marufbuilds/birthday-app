@@ -153,7 +153,7 @@ export const BirthdayWishCard = () => {
           {/* Footer */}
           <div className="relative mt-10 border-t border-purple-100 pt-7 text-center">
             <p className="text-xl font-black tracking-wide text-purple-950 sm:text-2xl">
-              Love you, Birthday Girl. ❤️
+              Love you, Birthday Girl. ❤️🥺
             </p>
 
             <p className="mt-2 text-2xl">

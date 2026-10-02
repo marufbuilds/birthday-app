@@ -51,7 +51,7 @@ const OldMemoriesSection = () => {
       <div className="mb-6 overflow-hidden rounded-[2rem] border border-white/80 bg-white/70 p-2 shadow-xl shadow-purple-200/30 backdrop-blur-md sm:mb-8 sm:p-3">
         <div className="overflow-hidden rounded-[1.5rem]">
           <Image
-            src="/images/memory-2.jpg"
+            src="/images/memory-8.jpg"
             width={1200}
             height={800}
             alt="Our old memory"

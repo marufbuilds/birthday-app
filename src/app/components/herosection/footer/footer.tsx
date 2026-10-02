@@ -1,5 +1,6 @@
  import Link from "next/link";
 import { Playfair_Display, Poppins } from "next/font/google";
+import Image from "next/image";
 
 const playfair = Playfair_Display({
   subsets: ["latin"],
@@ -14,7 +15,7 @@ const poppins = Poppins({
 const Footer = () => {
   return (
     <footer
-      className={`${poppins.className} relative overflow-hidden bg-[#160d24] px-4 py-16 sm:px-6 sm:py-20 lg:px-10 mt-5`}
+      className={`${poppins.className} relative overflow-hidden bg-[#160d24] px-4 py-10  sm:px-6 sm:py-10 lg:px-10 mt-5 `}
     >
       {/* Background Glow */}
       <div className="pointer-events-none absolute -left-32 top-0 h-72 w-72 rounded-full bg-pink-500/20 blur-[100px]" />
@@ -123,6 +124,15 @@ const Footer = () => {
             <span>👑</span>
             <span className="text-pink-300">♡</span>
             <span>❤️</span>
+          </div>
+          <div className="rounded-2xl border  px-5 py-5 shadow-sm backdrop-blur-sm sm:px-6 mt-10">
+            <Image
+              src="/images/end.jpg"
+              width={1200}
+              height={800}
+              alt="Footer Image"
+              className="h-auto w-full object-cover rounded-2xl"
+            />
           </div>
 
           {/* Bottom */}

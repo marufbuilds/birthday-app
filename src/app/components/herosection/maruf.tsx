@@ -112,9 +112,9 @@ const Maruf = () => {
             <p className="font-serif text-sm font-medium leading-7 text-purple-800 sm:text-base sm:leading-8">
               যে তোমায় ভালোবাসেনি সে অকারণে ছেড়ে যাবে,
               <br />
-              যে তোমায় ভালোবাসে সে হাজারটা কারণ দেখিয়ে
-              <br className="hidden sm:block" />
-              তোমার কাছে থেকে যাবে। 😊🥀
+              যে তোমায় ভালোবাসে সে হাজারটা কারণ দেখিয়ে <br />
+                <br className="hidden sm:block" />
+                 তোমার কাছে থেকে যাবে। 😊🥀
             </p>
           </div>
 
