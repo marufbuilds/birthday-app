@@ -4,7 +4,7 @@ import Image from "next/image";
 export const BirthdayDriveCard = () => {
   return (
     <section className="flex min-h-screen items-center justify-center bg-gradient-to-br from-rose-100 via-pink-100 to-purple-200 px-4 py-10 sm:px-6 lg:px-8">
-      <div className="w-full max-w-3xl overflow-hidden rounded-[2rem] border border-white/70 bg-white/75 p-5 shadow-2xl backdrop-blur-xl sm:p-8 md:p-10">
+      <div className="w-full max-w-3xl overflow-hidden rounded-[2rem] border border-white/70 bg-linear-to-r from-amber-100 to-white p-5 shadow-2xl backdrop-blur-xl sm:p-8 md:p-10">
 
         {/* Heading */}
         <div className="mb-8 text-center sm:mb-10">

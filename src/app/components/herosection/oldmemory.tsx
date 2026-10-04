@@ -2,7 +2,7 @@
 
 const OldMemoriesSection = () => {
   return (
-    <section className="mx-auto w-full max-w-6xl px-4 py-12 sm:px-6 sm:py-16 lg:px-8 lg:py-20 bg-linear-to-tr from-pink-100 via-purple-300 to-blue-100 mt-5 rounded-2xl">
+    <section className="mx-auto w-full max-w-6xl px-4 py-12 sm:px-6 sm:py-16 lg:px-8 lg:py-20 bg-linear-to-r from-purple-400 to-purple-200  mt-5 rounded-2xl">
       
       {/* Heading */}
       <div className="mx-auto mb-10 max-w-3xl text-center sm:mb-14">

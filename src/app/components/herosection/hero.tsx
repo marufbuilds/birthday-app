@@ -18,7 +18,7 @@ const HeroSection = () => {
   return (
     <section
       id="home"
-      className="rounded-2xl mt-10  relative min-h-screen overflow-hidden bg-[#4c0519] text-white"
+      className="rounded-2xl mt-5  relative min-h-screen overflow-hidden bg-[#4c0519] text-white"
     >
       
       {/* =====================================================

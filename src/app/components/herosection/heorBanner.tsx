@@ -11,7 +11,7 @@ export const HeorBanner = () => {
           BACKGROUND
       ====================================================== */}
 
-      <div className="absolute inset-0 bg-[radial-gradient(circle_at_70%_30%,#fecdd3_0%,#fb7185_18%,#f43f5e_38%,#e11d48_58%,#9f1239_78%,#4c0519_100%)]" />
+      <div className="absolute inset-0  bg-[radial-gradient(circle_at_70%_30%,#fecdd3_0%,#fb7185_18%,#f43f5e_38%,#e11d48_58%,#9f1239_78%,#4c0519_100%)]" />
 
       {/* Soft glows */}
 
@@ -23,7 +23,7 @@ export const HeorBanner = () => {
           MAIN CONTAINER
       ====================================================== */}
 
-      <div className="relative mx-auto w-full max-w-6xl rounded-4xl bg-gradient-to-r from-red-500 to-pink-700">
+      <div className="relative mx-auto w-full max-w-6xl rounded-4xl bg-gradient-to-r from-red-600 to-pink">
 
         {/* Decorative sparkle */}
 

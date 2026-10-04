@@ -5,7 +5,7 @@ import logo from "@/assets/maruf.png";
 const Maruf = () => {
   return (
     <section className="px-4 py-8 sm:px-6 sm:py-12 lg:px-10 lg:py-16">
-      <div className="relative mx-auto flex w-full max-w-6xl flex-col items-center overflow-hidden rounded-[2rem] border border-pink-100 bg-gradient-to-br from-green-100 via-white to-pink-100 p-6 shadow-[0_20px_60px_rgba(190,24,93,0.08)] sm:rounded-[2.5rem] sm:p-8 md:flex-row md:gap-8 md:p-10 lg:gap-14 lg:p-14">
+      <div className="relative mx-auto flex w-full max-w-6xl flex-col items-center overflow-hidden rounded-[2rem] border border-pink-100 bg-gradient-to-br from-green-200 via-white to-blue-200 p-6 shadow-[0_20px_60px_rgba(190,24,93,0.08)] sm:rounded-[2.5rem] sm:p-8 md:flex-row md:gap-8 md:p-10 lg:gap-14 lg:p-14">
 
         {/* Decorative Elements */}
 

@@ -86,9 +86,22 @@ const Footer = () => {
 
           {/* Signature */}
           <div className="relative mt-9">
-            <p className="text-sm font-medium tracking-wide text-purple-200/60">
-              Made with love, just for you
-            </p>
+            <div className="relative z-10 mx-auto mt-14 max-w-2xl text-center">
+         <div className="mx-auto  mt- bg-linear-to-r from-amber-500 to-white max-w-xl rounded-2xl border border-pink-100/80   px-5 py-4 shadow-sm backdrop-blur-sm sm:mt-8 sm:px-8">
+    <p className="text-2xl leading-7  text-gray-500 sm:text-base sm:leading-8">
+      ❝ মুখে বলি দূরে যা,
+      <br className="sm:hidden" />
+      মন বলে থেকে যা—
+      <br />
+      দূরে গেলে মন বোঝে,
+      <span className="font-medium text-gray-700">
+        তুই কত আপন।😊
+      </span>
+      ❝
+    </p>
+  </div>
+
+      </div>
 
             <p
               className={`${playfair.className} mt-2 text-2xl font-semibold italic text-white sm:text-3xl`}

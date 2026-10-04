@@ -1,6 +1,6 @@
 export const BirthdayWishCard = () => {
   return (
-    <section className="px-4 py-12 sm:px-6 sm:py-16 lg:px-10 lg:py-20 mt-5 bg-amber-300 rounded-2xl">
+    <section className="px-4 py-12 sm:px-6 sm:py-16 lg:px-10 lg:py-20 mt-5 bg-linear-to-r from-cyan-400 to-amber-400 rounded-2xl">
       <div className="mx-auto w-full max-w-4xl">
 
         {/* Card */}

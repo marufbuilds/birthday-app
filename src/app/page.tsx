@@ -28,7 +28,7 @@ import BirthdayWishCard from './components/herosection/wishCard';
       <Maruf />
       {/* <BirthdayCakeSection /> */}
        <BubuDuduCard />
-       <div className="mb-3 w-full rounded-3xl border border-white/80 bg-white/70 px-5 py-6 shadow-xl backdrop-blur-xl sm:px-8 sm:py-8">
+       <div className="mb-3 w-full rounded-3xl bg-linear-to-r from-amber-500 to-white   border border-white/80 bg-white/70 px-5  py-6 shadow-xl backdrop-blur-xl sm:px-5 sm:py-8">
   <h1 className="text-center text-2xl font-black leading-tight tracking-tight text-purple-900 sm:text-3xl md:text-4xl lg:text-5xl">
     I know you’re tired of scrolling…
     <br />
